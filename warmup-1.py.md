@@ -1,4 +1,4 @@
-<font color="green">#warmup-1</font>
+#warmup-1
 
 ##sleep_in
 ```
